@@ -1,5 +1,7 @@
 # FCX-Circus
 
+"A roundup and encapsulation of FCX functionality."
+
 This was an attempt at a far more grandiose task than was
 apparently intended. I was attempting to reimplement the
 functionality of the Field Campaign Explorer (FCX)
